@@ -23,7 +23,7 @@ Azure AD Connect will integrate your on-premises directories with Azure Active D
 
 <!-- The hardcoded link is a workaround for campaign ids not working in acom links-->
 
-> [AZURE.IMPORTANT] [Azure AD Connect is the best way to connect your on-premises directory with Azure AD and Office 365. This is a great time to upgrade to Azure AD Connect from Windows Azure Active Directory Sync (DirSync) or Azure AD Sync as these tools are now deprecated and will reach end of support on April 13, 2017.]active-directory-aadconnect-dirsync-deprecated.md)
+> [AZURE.IMPORTANT] [Azure AD Connect is the best way to connect your on-premises directory with Azure AD and Office 365. This is a great time to upgrade to Azure AD Connect from Windows Azure Active Directory Sync (DirSync) or Azure AD Sync as these tools are now deprecated and will reach end of support on April 13, 2017.](active-directory-aadconnect-dirsync-deprecated.md)
 
 ![What is Azure AD Connect](./media/active-directory-aadconnect/arch.png)
 
